@@ -1,0 +1,58 @@
+*{
+    font-family: monospace;
+    padding: 15px;
+}
+
+h2{
+    border-style: solid;
+    background-color: greenyellow;
+}
+
+.pageControll{
+    display: flex;
+    flex-direction: row-reverse;
+    color: black;
+    justify-content: space-between;
+}
+
+.boarderP{
+    border-style: solid;
+    background-color: yellow;
+}
+
+.aboutTitle{
+    color: blue;
+}
+
+.meContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+/* .meContent{
+    color: azure;
+}
+
+.guyimg{
+    color: azure;
+} */
+
+.beforeCoding{
+    display: flex;
+    flex-direction: row;
+}
+
+.finalProject{
+    display: flex;
+    flex-direction: row;
+}
+
+.copyright{
+    display: flex;
+    flex-direction: row;
+}
+
+.whatsNext{
+    border-style: solid;
+    background-color: greenyellow;
+}
